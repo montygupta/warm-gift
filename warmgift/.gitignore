@@ -1,0 +1,9 @@
+/target/
+/.classpath
+/.project
+/.settings
+/test_out/
+/.chrome-app/
+/.chrome-e2e/
+/.chrome-test/
+
